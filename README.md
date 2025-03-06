@@ -11,7 +11,7 @@ Welcome to my Github profile, I'm Gautam Raj currently pursuing Master's of Comp
 
 - 🔭 I’m currently looking to finish my master's degree
 - 🤔 I am currently learning Full Stack Web Development and I’m looking for internship opportunities.
-- 📫 How to reach me: gautamraj996@gmail.com
+- 📫 How to reach me: gautamrajv2@gmail.com
   
 
 ### Tech Stack
