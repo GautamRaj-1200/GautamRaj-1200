@@ -31,4 +31,4 @@ I like building cool stuff, exploring new tech, and contributing wherever I can 
 
 ### Github Stats
 
-[![Gautam's GitHub stats](https://gr-github-readme-stats.vercel.app/api?username=GautamRaj-12&show=prs_merged,&show_icons=true,&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) ![](https://github-readme-streak-stats.herokuapp.com/?user=GautamRaj-12&theme=onedark&hide_border=false)
+![Gautam's GitHub stats](https://gr-github-readme-stats.vercel.app/api?username=GautamRaj-12&show=prs_merged,&show_icons=true,&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) ![](https://github-readme-streak-stats.herokuapp.com/?user=GautamRaj-12&theme=onedark&hide_border=false)
