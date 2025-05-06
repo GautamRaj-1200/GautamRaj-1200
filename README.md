@@ -5,12 +5,10 @@ I like building cool stuff, exploring new tech, and contributing wherever I can 
 :mailbox: Reach me out!
 
 <!--[![Twitter Badge](https://img.shields.io/badge/-@grajdev12-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/grajdev12)-->  
-<!--[![Linkedin Badge](https://img.shields.io/badge/-grajdev12-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grajdev12/) -->
+[![Linkedin Badge](https://img.shields.io/badge/-grajdev12-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grajdev12/)
 [![Mail Badge](https://img.shields.io/badge/-gautamrajv2-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gautamrajv2@gmail.com)
 
-
-- 🔭 I’m currently looking to finish my master's degree
-- 🤔 I am currently learning Full Stack Web Development and I’m looking for internship opportunities.
+- I’m open to internship or full time roles.
 - 📫 How to reach me: gautamrajv2@gmail.com
   
 
@@ -30,7 +28,7 @@ I like building cool stuff, exploring new tech, and contributing wherever I can 
 
 ### Resume
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1kd-1ugITuomzkwyVXVzCw1xxRn8bSote/view?usp=sharing)
-<!--
+
 ### Github Stats
 
-[![Gautam's GitHub stats](https://gr-github-readme-stats.vercel.app/api?username=GautamRaj-12&show=prs_merged,&show_icons=true,&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) ![](https://github-readme-streak-stats.herokuapp.com/?user=GautamRaj-12&theme=onedark&hide_border=false)-->
+[![Gautam's GitHub stats](https://gr-github-readme-stats.vercel.app/api?username=GautamRaj-12&show=prs_merged,&show_icons=true,&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) ![](https://github-readme-streak-stats.herokuapp.com/?user=GautamRaj-12&theme=onedark&hide_border=false)
