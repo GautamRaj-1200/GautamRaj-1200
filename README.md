@@ -12,22 +12,19 @@ I like building cool stuff, exploring new tech, and contributing wherever I can 
 - 📫 How to reach me: gautamrajv2@gmail.com
   
 
-### Tech Stack
+### Technologies and Tools I work with
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 
 
-### Skills
-
 [![React Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) 
 
-### Languages
 
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#) [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#) 
 
 
 ### Resume
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1kd-1ugITuomzkwyVXVzCw1xxRn8bSote/view?usp=sharing)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1YivV_78ZkJ21UW34X_1-uHlDmkCOgw3W/view)
 
 ### Github Stats
 
